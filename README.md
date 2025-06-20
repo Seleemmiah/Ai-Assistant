@@ -129,14 +129,6 @@ flutter run
   * Device fingerprinting
   * Authentication layer
 
----
-
-## 🌍 Deployment Tips
-
-* Use platforms like [Render](https://render.com), [Railway](https://railway.app), or [Heroku](https://heroku.com) for free backend hosting.
-* Replace `http://localhost:8000` in your Flutter app with your deployed URL.
-
----
 
 ## 📦 Future Improvements
 
